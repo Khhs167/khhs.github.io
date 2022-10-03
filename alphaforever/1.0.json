@@ -7,7 +7,7 @@
       "natives/libjinput-linux.so",
       "natives/libjinput-linux64.so",
       "natives/liblwjgl.so",
-      "natives/liblwjgl64",
+      "natives/liblwjgl64.so",
       "natives/libopenal.so",
       "natives/libopenal64.so"
     ]
