@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "depends": {
+
+    "linux": [
+      "natives/libjinput-linux.so",
+      "natives/libjinput-linux64.so",
+      "natives/liblwjgl.so",
+      "natives/liblwjgl64",
+      "natives/libopenal.so",
+      "natives/libopenal64.so"
+    ]
+  }
+}
