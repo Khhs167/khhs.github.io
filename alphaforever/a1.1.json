@@ -1,0 +1,15 @@
+{
+  "version": "alpha 1.1",
+  "jar": "a1.1/client.jar",
+  "depends": {
+
+    "linux": [
+      "natives/libjinput-linux.so",
+      "natives/libjinput-linux64.so",
+      "natives/liblwjgl.so",
+      "natives/liblwjgl64.so",
+      "natives/libopenal.so",
+      "natives/libopenal64.so"
+    ]
+  }
+}

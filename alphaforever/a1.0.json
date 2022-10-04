@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "jar": "1.0/alphaforever.jar",
+  "version": "alpha 1.0",
+  "jar": "a1.0/client.jar",
   "depends": {
 
     "linux": [
